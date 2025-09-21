@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelgyp&label=Profile%20views&color=0e75b6&style=flat" alt="michaelgyp" /> </p>
 
-- 🔭 I’m currently working on **Color Swab Climb**
+- 🔭 I’m currently working on [**Color Swab Climb**](https://mikizone.itch.io/color-swap-climb)
 
 - 🌱 I’m currently learning **Godot, Python, full-stack web development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michaelgusti192@gmail.com**
 
-- ⚡ Fun fact **I have Miki("micky") as a nickname**
+- ⚡ Fun fact **I have Miki ["Micky"] as a nickname**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
