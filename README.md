@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **michaelgusti192@gmail.com**
 
-- ⚡ Fun fact **I have Miki ["Micky"] as a nickname**
+- ⚡ Fun fact **Miki ["Micky"] is my nickname**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
