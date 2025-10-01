@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Godot, Python, full-stack web development**
 
-- 👨‍💻 All of my projects are available at [michaelgyp.github.io](michaelgyp.github.io)
+- 👨‍💻 All of my projects are available at [michaelgyp.github.io](https://michaelgyp.github.io/)
 
 - 📫 How to reach me **michaelgusti192@gmail.com**
 
