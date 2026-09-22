@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael Gusti Yanu Putra</h1>
-<h3 align="center">A passionate indie game developer from Indonesia</h3>
+<h3 align="center">Indonesian game developer based in the Faroe Islands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelgyp&label=Profile%20views&color=0e75b6&style=flat" alt="michaelgyp" /> </p>
 
-- 🔭 I’m currently working on [**Color Swap Climb**](https://mikizone.itch.io/color-swap-climb) and something ;)
-
 - 🌱 I’m currently learning **Godot, Python, full-stack web development**
 
-- 👨‍💻 All of my projects are available at [michaelgyp.github.io](https://michaelgyp.github.io/)
+- 👨‍💻 All of my projects are available at [michaelgyp.com](https://michaelgyp.com/)
 
-- 📫 How to reach me **michaelgusti192@gmail.com**
+- 📫 How to reach me **hello@michaelgyp.com**
 
 - ⚡ Fun fact **Miki ["Micky"] is my nickname**
 
