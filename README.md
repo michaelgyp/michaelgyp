@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@the_mgyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_mgyp" height="30" width="40" /></a>
-<a href="https://fb.com/michaelgyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michaelgyp" height="30" width="40" /></a>
-<a href="https://instagram.com/michael_gyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_gyp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@michaelgyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="michaelgyp" height="30" width="40" /></a>
+<a href="https://x.com/@michael_gyp" target="blank"><img align="center" src="https://cdn.brandfetch.io/domain/x.com/fallback/lettermark/theme/dark/h/400/w/400/icon?c=1bfwsmEH20zzEfSNTed" alt="the_mgyp" height="35" /></a>
+<a href="https://fb.com/michaelgyp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="michaelgyp" height="35" /></a>
+<a href="https://instagram.com/michael_gyp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="michael_gyp" height="35" /></a>
+<a href="https://www.youtube.com/@michaelgyp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="michaelgyp" height="30" width="auto" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
